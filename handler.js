@@ -776,8 +776,8 @@ text: '```🚩 Akses Bot Ke Private Chat Di Tolak, Upgrade Premium Hanya 5.000 I
 contextInfo: {
 mentionedJid: [m.sender, nomorown],
 externalAdReply: { showAdAttribution: true, 
-title: `© Kiku-Wabot v5.0.3 (Public Bot)`,
-thumbnailUrl: 'https://telegra.ph/file/0b32e0a0bb3b81fef9838.jpg',
+title: `© C-Arv v5.0.3 (Public Bot)`,
+thumbnailUrl: 'https://i.ibb.co/pjyr56L/image.jpg',
 mediaType: 1,
 renderLargerThumbnail: true 
 }}}, { quoted: m})
@@ -962,7 +962,7 @@ text: '```🚩 Maaf Limitmu Sudah Habis Silahkan Beli Premium / Minta Free Limit
 contextInfo: {
 externalAdReply: { showAdAttribution: true, 
 title: `Sorry, your limit has run out!!`,
-body: '© Takashi Kemii',
+body: '© C-Arv',
 thumbnailUrl: 'https://telegra.ph/file/e4de2c023e933002981af.jpg',
 mediaType: 1,
 renderLargerThumbnail: true 

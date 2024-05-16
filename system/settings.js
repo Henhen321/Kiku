@@ -27,17 +27,17 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 global.owner = [
   ['-'],
   ['-'],
-  ['628816609112', 'Takashi Kemii', 'contact@kemii.my.id', true]
+  ['6285866034212', './Henz', 'henz@gmail.com', true]
 ] // Put your number here
-global.mods = ['-'] // Moderator
-global.prems = ['-'] // Premium
-global.rose = '-';
-global.xyro = '-';
-global.btc = '-';
-global.xzn = '-';
-global.lolkey = '-';
+global.mods = ['6285866034212'] // Moderator
+global.prems = ['6285866034212'] // Premium
+global.rose = 'henxyz';
+global.xyro = '3WIq7q3CWt';
+global.btc = 'CIYiVxDJ';
+global.xzn = 'henhenxyz';
+global.lolkey = '20b80018fcfc6ef3ed845e64';
 global.yanz = '-';
-global.zein = '-',
+global.zein = 'e4RAonfJyYFc88e',
 global.APIs = {
     // API Prefix
     // name: 'https://website'
@@ -46,10 +46,10 @@ global.APIs = {
     males: 'https://malesin.xyz',
     neoxr: 'https://api.neoxr.eu',
     xyro: 'https://api.xyroinee.xyz',
-    btc: 'https://api.betabotz.org',
+    btc: 'https://api.betabotz.eu.org',
     xfarr: 'https://api.xfarr.com',
-    dzx: 'https://api.dhamzxploit.my.id',
-    zein: 'https://api.zahwazein.xyz',
+    dzx: '',
+    zein: 'https://api.zeeoneofc.my.id',
     rose: 'https://api.itsrose.life',
     popcat: 'https://api.popcat.xyz',
     xzn: 'https://skizo.tech',
@@ -60,14 +60,14 @@ global.APIKeys = {
     // 'https://website': 'apikey'
     'https://api.zahwazein.xyz': '-',
     'https://api.xteam.xyz': '-',
-    'https://api.xyroinee.xyz': '-',
-    'https://api.neoxr.eu': '-',
+    'https://api.xyroinee.xyz': '3WIq7q3CWt',
+    'https://api.neoxr.eu': 'Mgs8Dj',
     'https://api.xfarr.com': '-',
-    'https://api.zahwazein.xyz': '-',
-    'https://api.betabotz.org': '-',
-    'https://api.lolhuman.xyz': '-',
-    'https://api.itsrose.life': '-',
-    'https://skizo.tech': '-',
+    'https://api.zeeoneofc.my.id': 'e4RAonfJyYFc88e',
+    'https://api.betabotz.eu.org': 'CIYiVxDJ',
+    'https://api.lolhuman.xyz': '20b80018fcfc6ef3ed845e64',
+    'https://api.itsrose.life': 'henxyz',
+    'https://skizo.tech': 'henhenxyz',
 }
 
 process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = 0
@@ -75,11 +75,11 @@ process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = 0
 const spack = fs.readFileSync("lib/exif.json")
 const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
-  var sticker_name = 'Kiku - Wabot'
-  var sticker_author = 'Kemii Elisabeth'
+  var sticker_name = 'C-Arv'
+  var sticker_author = 'C-Arv'
 } else {
-  var sticker_name = 'Kiku - Wabot'
-  var sticker_author = 'Kemii Elisabeth'
+  var sticker_name = 'C-Arv'
+  var sticker_author = 'Elisabeth'
 }
 
 const file_exif = "lib/exif.json"
@@ -97,19 +97,19 @@ global.kiku = 'application/vnd.android.package-archive'
 // Database
 global.version = '5.0.3'
 global.sessionName = 'salsa'
-global.gcbot = 'https://chat.whatsapp.com/FMzkNwRU9Kg2OG2hq4F0M0'
-global.instagram = 'https://instagram.com/kemii.learning'
-global.namebot = '© Kiku-Wabot v5.0.3 (Public Bot)'
-global.thumb = 'https://telegra.ph/file/7b5416e93b4423845762d.jpg'
-global.thumbnail = 'https://telegra.ph/file/7b5416e93b4423845762d.jpg'
+global.gcbot = 'https://chat.whatsapp.com/KMPr7fXHRYBABxYdHReQVB'
+global.instagram = 'https://instagram.com/drajat.henhen'
+global.namebot = '© C-Arv v5.0.3 (Public Bot)'
+global.thumb = 'https://i.ibb.co/pjyr56L/image.jpg'
+global.thumbnail = 'https://i.ibb.co/pjyr56L/image.jpg'
 global.myfile = fs.readFileSync(`./media/xfile.pdf`)
 global.thumb2 = fs.readFileSync('./media/thumbnail.mp4')
-global.qris = 'https://telegra.ph/file/bcb93fafb22f139ff1512.jpg'
-global.email = 'kiku.wabot@gmail.com'
-global.creator = "628816609112@s.whatsapp.net"
-global.nomorbot = '-'
-global.nomorown = '628816609112'
-global.pairingNumber = ''
+global.qris = 'https://i.ibb.co/pjyr56L/image.jpg'
+global.email = 'henz@gmail.com'
+global.creator = "6285866034212@s.whatsapp.net"
+global.nomorbot = '6285723701289'
+global.nomorown = '6285866034212'
+global.pairingNumber = '6285723701289'
 
 // Harga Nokos
 global.nokosindo = '7000'
@@ -124,19 +124,19 @@ global.eggs = '15'
 global.locs = '1'
 
 // Sosial Media
-global.sig = '-'
+global.sig = 'https://instagram.com/drajat.henhen'
 global.syt = '-'
-global.sgh = '-'
-global.sgc = 'https://chat.whatsapp.com/FMzkNwRU9Kg2OG2hq4F0M0'
-global.swa = 'https://wa.me/263734408604'
+global.sgh = 'https://github.com/Henhen321'
+global.sgc = 'https://chat.whatsapp.com/KMPr7fXHRYBABxYdHReQVB'
+global.swa = 'https://wa.me/6285866034212'
 global.swb = '-' // Link Discord
 global.snh = 'https://nhentai.net/g/365296/' // Link nhentai
 
 // Pembayaran
-global.pdana = '~Not Found~'
-global.povo = '~Not Found~'
+global.pdana = '6285866034212'
+global.povo = '6285866034212'
 global.pgopay = '~Not Found~'
-global.pulsa = '~Not Found~'
+global.pulsa = '6285866034212'
 global.pulsa2 = '~Not Found~'
 global.psaweria = '~Not Found~'
 global.ptrakteer = '~Not Found~'
@@ -150,18 +150,18 @@ global.useMulti = true
 global.autoread = true
 
 // Watermark
-global.packname = 'Kiku - Wabot'
+global.packname = 'C-Arv'
 global.author = '// Elisabeth'
-global.wm = 'Kiku - Wabot'
-global.wm2 = 'Salsa Javanese'
+global.wm = 'C-Arv bot'
+global.wm2 = 'C-Arv Javanese'
 global.bottime = `Time: ${wktuwib}`
 global.botdate = `Date: ${week} ${date}\nTime: ${wktuwib}`
 global.titlebot = `${global.wm}`
 global.danied = 'A K S E S  K A M U  D I  T O L A K!!'
 global.done = '```Success...\nDont forget to donate```'
-global.packname = 'Kiku - Wabot'
-global.author = 'Takashi Kemii'
-global.nameown = 'KemiiSalsabila'
+global.packname = 'C-Arv'
+global.author = 'タケシ'
+global.nameown = './Henz'
 global.wait = 'Wait a moment... '
 
 // Tampilan
