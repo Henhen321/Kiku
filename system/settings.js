@@ -96,7 +96,7 @@ global.kiku = 'application/vnd.android.package-archive'
 
 // Database
 global.version = '5.0.3'
-global.sessionName = 'salsa'
+global.sessionName = 'Salsabila'
 global.gcbot = 'https://chat.whatsapp.com/KMPr7fXHRYBABxYdHReQVB'
 global.instagram = 'https://instagram.com/drajat.henhen'
 global.namebot = '© C-Arv v5.0.3 (Public Bot)'
@@ -107,9 +107,9 @@ global.thumb2 = fs.readFileSync('./media/thumbnail.mp4')
 global.qris = 'https://i.ibb.co/pjyr56L/image.jpg'
 global.email = 'henz@gmail.com'
 global.creator = "6285866034212@s.whatsapp.net"
-global.nomorbot = '6285723701289'
+global.nomorbot = ''
 global.nomorown = '6285866034212'
-global.pairingNumber = '6285723701289'
+global.pairingNumber = ''
 
 // Harga Nokos
 global.nokosindo = '7000'
